@@ -1,3 +1,3 @@
 #!/bin/bash
 read name
-echo "Hello Msr. $name"
+echo "Hello $name"
