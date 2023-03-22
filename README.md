@@ -3,11 +3,7 @@
 ### First Steps
 **First steps of my career as a back-end developer**
 
-<<<<<<< HEAD
-Today im learning how to use git
-=======
 Today im learning how to use git.This is a commands that make your life easier:
->>>>>>> 25996c8 (Update: table)
 
 ```
 git add .
