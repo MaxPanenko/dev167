@@ -1,7 +1,7 @@
 # MyProject
 
-### First Steps
-**First steps of my career as a back-end developer**
+### First steps of my career as a back-end developer
+
 
 Today im learning how to use git.This is a commands that make your life easier:
 
