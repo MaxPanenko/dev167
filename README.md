@@ -11,6 +11,22 @@ git commit -m/am ""
 git push origin ...
 ```
 
+###How to run a script in Linux Console
+
+```
+./touch.sh	
+
+```
+Edit file
+
+```
+vim/nano touch.sh
+```
+
+
+
 This project was built using [SoftServe](https://career.softserveinc.com/en-us/learning-and-certification).
 
-![Screenchot](https://cdn.discordapp.com/attachments/1022534309170647040/1088063161288110172/AHSHSHSHS.jpg)
+
+
+
