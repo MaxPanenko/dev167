@@ -11,7 +11,7 @@ git commit -m/am ""
 git push origin ...
 ```
 
-###How to run a script in Linux Console
+### How to run a script in Linux Console
 
 
 ```
