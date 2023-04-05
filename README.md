@@ -27,6 +27,11 @@ vim/nano touch.sh
 
 This project was built using [SoftServe](https://career.softserveinc.com/en-us/learning-and-certification).
 
+### Write this commands for start MariaDB setup
+
+```
+./AnotherFile.sh
+``` 
 
 
 
