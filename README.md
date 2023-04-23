@@ -35,12 +35,6 @@ This project was built using [SoftServe](https://career.softserveinc.com/en-us/l
 
 ### This is a simple example for MongoDB code
 
-using System;
-using MongoDB.Driver;
-using System.Collections.Generic;
-using System.Linq;
-using MongoDB.Bson;
-using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
 ```
 csharp.sh
